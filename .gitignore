@@ -1,5 +1,3 @@
-allure-results/
-allure-report/
 *.class
 *.jar
 *.war
