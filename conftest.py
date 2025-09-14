@@ -32,5 +32,5 @@ def driver():
         logger.error(f"Ошибка при инициализации драйвера: {e}")
         raise
     finally:
-        logger.info("Завершение работы драйвера")
+        logger.info("Завершение работы  драйвера")
         driver.quit()
